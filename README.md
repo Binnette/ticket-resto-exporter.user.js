@@ -9,19 +9,20 @@ Le fichier ainsi obtenu est compatible avec le logiciel HomeBank (homebank.free.
 
 ## Compatibilité
 * Ne fonctionne pas encore sous Mozilla firefox avec GreaseMonkey
-* Testé avec "Google Chrome 46.0.2490.86 m" avec Tampermonkey
+* Testé avec "Google Chrome 54.0.2840.71 m" avec Tampermonkey
 * Testé avec "Google Chrome 46.0.2490.86 m" en tant qu'extension
 
-## Installation dans Mozilla Firefox
-1. Télécharger "GreaseMonkey"
+## [Ne fonctionne pas] Installation dans Mozilla Firefox
+1. Installer le plugin "GreaseMonkey"
 2. Naviguer vers le lien : https://gist.github.com/Binnette/9e21c096654639fd07db
 3. Cliquer sur le bouton "Raw"
-4. Cliquer sur le bouton "Enable and install script"
+4. Cliquer sur le bouton "Installer"
 
 ## [Recommandé] Installation dans Chrome avec Tampermonkey
-1. Installer Tampermonkey dans Chrome
-2. Télecharger le fichier "ticket-resto-exporter.user.js"
-3. Ajouter le script dans Tampermonkey
+1. Installer le plugin Tampermonkey
+2. Naviguer vers le lien : https://gist.github.com/Binnette/9e21c096654639fd07db
+3. Cliquer sur le bouton "Raw"
+4. Cliquer sur le bouton "Install"
 
 ## Installation dans Chrome comme extension
 1. Télecharger le fichier "ticket-resto-exporter.user.js"
